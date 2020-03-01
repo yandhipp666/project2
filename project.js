@@ -122,11 +122,8 @@ function auto_safeconvert() {
     /*TAMBAH DISINI LINK POSTINGANNYA*/
     
     var daftarPostingan = [
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
-      "masukan url postingan blog safelink kamu disini",
+      "https://yppsafelink1.blogspot.com/2020/02/ypp.html",
+      "https://yppsafelink1.blogspot.com/2020/02/blog-post.html",
     ];
     /* Jika ingin menambah postingan, copas saja */
 
